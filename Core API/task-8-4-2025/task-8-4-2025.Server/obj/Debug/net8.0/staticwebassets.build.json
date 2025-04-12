@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "QDpImW/jg1pPBnzLQoMIdYFqUNnbKJMHcxilo7O199o=",
+  "Source": "task-8-4-2025.Server",
+  "BasePath": "_content/task-8-4-2025.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\Core API\\task-8-4-2025\\task-8-4-2025.client\\task-8-4-2025.client.esproj",
+      "Version": 2,
+      "Source": "task-8-4-2025.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
